@@ -34,6 +34,9 @@ This project allows users to:
 
 ## 📷 Sample Output
 (Add screenshot of your program output here)
+<img width="1023" height="795" alt="outputt png" src="https://github.com/user-attachments/assets/c09dac24-e9f6-475b-abc8-3d9ef9bf8609" />
+
+[Billing Output](output.png)
 
 ---
 
